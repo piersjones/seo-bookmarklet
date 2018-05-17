@@ -1,4 +1,4 @@
-# OuiSocial - Fork of OuiSEO by carlsednaoui
+# OuiSocial - Fork of carlsednaoui's OuiSEO
 
 An open-source bookmarklet that shows you social meta data information. This fork removes SEO-specific information and leaves only social.
 
