@@ -2,7 +2,7 @@
 
 An open-source bookmarklet that shows you social meta data information. This fork removes SEO-specific information and leaves only social.
 
-Original repo including explanation, demos and more resources. Check it out if you're also interested in SEO.
+[Original repo](https://github.com/carlsednaoui/seo-bookmarklet) includes explanations, demos and more resources. Check it out if you're also interested in SEO information.
 
 ## Installation
 
