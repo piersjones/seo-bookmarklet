@@ -12,7 +12,7 @@ To install OuiSocial simply go [here](http://carlsednaoui.github.io/seo-bookmark
 
 OuiSocial is a fork of [OuiSEO](https://github.com/carlsednaoui/seo-bookmarklet), which in turn "is greatly inspired by this [SEO Bookmarklet](http://twkm.ca/seo-bookmarklet/) made by Troy Meier. Thank you Troy!". Thanks also to carlsednaoui.
 
-## Resources
+## More tools (as noted by carlsednaoui)
 
 ### Facebook Resources
 - [Open graph documentation](https://developers.facebook.com/docs/opengraph/)
